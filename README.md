@@ -39,14 +39,7 @@ I also would like to make an application that uses
 
 ## ERD - schema for Database
 
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;">
-  <iframe
-    allowfullscreen
-    frameborder="0"
-    style="width:960px; height:720px"
-    src="https://lucid.app/documents/embeddedchart/70818e45-fe66-40fd-87ac-845cb3931277" id="E_BRz.hrGrqt">
-  </iframe>
-</div>
+<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/70818e45-fe66-40fd-87ac-845cb3931277" id="E_BRz.hrGrqt"></iframe></div>
 
 ## MVP - Minimum Viable Product
 * Sign up process

@@ -38,12 +38,7 @@ I also would like to make an application that uses
 * Webpack
 
 ## ERD - schema for Database
-<<<<<<< HEAD
-![image of ERD](/asset/newDateERD.pdf)
-=======
-
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/70818e45-fe66-40fd-87ac-845cb3931277" id="E_BRz.hrGrqt"></iframe></div>
->>>>>>> 677c9dbf30812a61f7ce0f3213aaf9e17ef33d8b
+![image of ERD](https://github.com/angeljuarez77/newDate/blob/main/asset/newDateERD.pdf)
 
 ## MVP - Minimum Viable Product
 * Sign up process

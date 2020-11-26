@@ -38,7 +38,7 @@ I also would like to make an application that uses
 * Webpack
 
 ## ERD - schema for Database
-![image of ERD](https://github.com/angeljuarez77/newDate/blob/main/asset/newDateERD.pdf)
+![image of ERD](./asset/newDateERD.png)
 
 ## MVP - Minimum Viable Product
 * Sign up process

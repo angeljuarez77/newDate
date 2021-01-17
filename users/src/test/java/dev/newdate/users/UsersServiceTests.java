@@ -1,10 +1,10 @@
-package com.example.users;
+package dev.newdate.users;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class UsersServiceTests {
 
 	@Test
 	void contextLoads() {
